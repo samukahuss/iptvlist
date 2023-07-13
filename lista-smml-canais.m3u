@@ -1,0 +1,116 @@
+#EXTM3U 
+                        CANAIS DE TV (ABERTOS, DESENHOS FILMES E SERIADOS)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------						
+-------------------------------------------------------------------------------------------------------------------------------------------------------------						
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-ED677327D2-seeklogo.com.jpg" group-title="TV ABERTA",Globo tv hd (SP)						
+http://tvonline.plus/tv-globo-online-hd-ao-vivo/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="Tv ABERTA",SBT TV
+https://www.sbt.com.br/AOVIVO/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2016/07/novologorecord-1.png" group-title="TV ABERTA",Record TV
+http://aovivonatv.com/record-ao-vivo/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="TV ABERTA",Band TV
+http://tvonline.plus/band/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/R/record-news-logo-5B8E6EACF4-seeklogo.com.gif" group-title="Noticias", Record News Tv
+http://tvonline.plus/record-news/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/064/668/non_2x/mtv-vector-logo.jpg" group-title="Entrerterimentos",MTV TV
+http://tvonline.plus/mtv/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="Desenhos",Cartoon network Tv
+http://tvonline.plus/cartoon-network/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2010/12/aandelogo.jpg?w=446&h=299&crop=1" group-title="Entrerterimento",AeE Tv
+http://tvonline.plus/ae/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://www.harmelin.com/wp-content/uploads/2015/08/fox-logo-x_1.jpg" group-title="Filmes e series",FOX Tv
+http://tvonlinegratis1.com/fox-online-fox-ao-vivo-gratis/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/11/file_201389_0_FX_Logo-590x332.jpg" group-title="Filmes e series",FX Tv
+http://tvonlinegratis1.com/assistir-fx-online-ao-vivo/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" group-title="filmes e series",Universal Channel TV
+http://tvonlinegratis1.com/assistir-universal-channel-online-gratis/
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png" group-title="Filmes e series", TNT Tv
+http://tvonlinegratis1.com/assistir-tnt-online-gratis-24-horas/
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-0KzNXXfAlIU/VdTOd5_oMAI/AAAAAAAAlCw/Qedf2_WTvuM/s640/axn-emocao-na-claro-tv.jpg" group-title="Filmes e series",AXN Tv
+http://tvonlinegratis1.com/assistir-axn-online-ao-vivo/
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://wbtv.no.comunidades.net/wb_tv_large.jpg" group-title="Filmes e series",Warner Bros Tv
+http://tvonlinegratis1.com/assistir-warner-bros-online-gratis-24-horas/
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Entrerterimento",Investigation Discovery Tv
+http://tvonlinegratis1.com/assistir-investigation-discovery-online-gratis-hd/
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://aovivonatv.com/fotos/9b8e6de3300d6a16c2fa2d2e804569e2.jpg" group-title="Comedia",Comedy Center Tv
+http://tvonlinegratis1.com/assistir-comedy-central-online-ao-vivo/
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg" group-title="Filmes e series",MegaPix Tv
+http://tvonlinegratis1.com/assistir-megapix-online-gratis-24-horas/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Filmes e series",MaxPrime Tv
+http://tvonlinegratis1.com/assistir-max-online/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg/revision/latest?cb=20130601231108" group-title="Filmes e series",Paramount Channel Tv
+http://tvonlinegratis1.com/assistir-paramount-channel-online/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-lAM3_v-H97U/VCiRbVgsv5I/AAAAAAAAoOM/eA2zXpF6pHo/s1600/boom2014.png" group-title="Desenhos",Boomerang
+http://tvonlinegratis1.com/assistir-boomerang-online/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFdcWQIN-j8MEwQJfgnAIg4buB5XUQAGZ0Zms5kMtiHILqXZ7" group-title="Desenhos",Tooncast Tv
+http://tvonlinegratis1.com/assistir-tooncast-online-gratis-24-horas/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Nick_Jr._logo_2009_with_orange_and_blue_background.png/revision/latest?cb=20170620205120" group-title="Desenhos",Nick Jr. Tv
+http://tvonlinegratis1.com/assistir-nick-junior-online/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/64cCSIHynFA/hqdefault.jpg" group-title="Desenhos",Nickelodeon Tv
+http://tvonlinegratis1.com/assistir-nickelodeon-online-gratis-24-horas/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Mickey_Mouse_Clubhouse_Disney_Jr..jpg/revision/latest?cb=20110320233638" group-title="Desenhos", Disney JR. Tv
+http://tvonlinegratis1.com/disney-junior-online-gratis-desenho-infantil/
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://orig00.deviantart.net/899b/f/2015/337/b/d/disney_channel_originals_logo_by_grizzlybearfan-d9ix5rq.png" group-title="Desenhos",Disney Channel Tv
+http://tvonlinegratis1.com/assistir-disney-channel-online-24h/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/mlp/images/7/76/Logo_Discovery_Kids.svg.png/revision/latest?cb=20140116151647&path-prefix=pt" group-title="Desenhos",Discovery Kids Tv
+http://tvonlinegratis1.com/assistir-discovery-kids-online-hd/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://www.imagensparawhats.com/wp-content/uploads/2017/06/N%C3%BAmero-oficial-do-Fox-Sports-DESCUBRA.jpg" group-title="Futebol",Fox Sport Tv
+http://tvonlinegratis1.com/fox-sports-online-fox-sports-ao-vivo/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/01/sportv-3-hd-na-sky.jpg" group-title="Futebol",SportTV 3
+http://tvonlinegratis1.com/sportv-3-online-ao-vivo/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://cdn-1.motorsport.com/images/amp/68ey3q40/s6/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="F1",Mundial De Motovelocidade Tv
+http://tvonlinegratis1.com/assistir-mundial-de-motovelocidade-ao-vivo-online-gratis/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkrfSCAR3006PF6pAqyrGd8f6wQ9ncDEGebEgTaynW4xqRbDC" group-title="Futebol", Premiere TV
+http://tvonlinegratis1.com/assistir-premiere-online-pfc-ao-vivo-hd/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png" group-title="NBA",N B A 
+http://tvonlinegratis1.com/assistir-nba-ao-vivo-online-gratis/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="documentario",History Channel 2
+http://tvonlinegratis1.com/assistir-history-2-online-gratis-ao-vivo/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="Documentario", History Channel 1
+http://tvonlinegratis1.com/history-channel-online-gratis/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://aovivonatv.com/fotos/13b50bf369c35e0e1542d9df9d72ab39.jpg" group-title="Documentarios",Discovery civilization Tv
+http://tvonlinegratis1.com/discovery-civilization-online-gratis-24-horas/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-logo="http://images.mi.tv/channels/br_discovery-science-brazil_m.png" group-title="Documentario",Discovery science
+http://tvonlinegratis1.com/discovery-science-online-gratis-ao-vivo/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+
+
+
+
