@@ -1,116 +1,250 @@
-#EXTM3U 
-                        CANAIS DE TV (ABERTOS, DESENHOS FILMES E SERIADOS)
--------------------------------------------------------------------------------------------------------------------------------------------------------------						
--------------------------------------------------------------------------------------------------------------------------------------------------------------						
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-ED677327D2-seeklogo.com.jpg" group-title="TV ABERTA",Globo tv hd (SP)						
-http://tvonline.plus/tv-globo-online-hd-ao-vivo/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="Tv ABERTA",SBT TV
-https://www.sbt.com.br/AOVIVO/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2016/07/novologorecord-1.png" group-title="TV ABERTA",Record TV
-http://aovivonatv.com/record-ao-vivo/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="TV ABERTA",Band TV
-http://tvonline.plus/band/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/R/record-news-logo-5B8E6EACF4-seeklogo.com.gif" group-title="Noticias", Record News Tv
-http://tvonline.plus/record-news/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/064/668/non_2x/mtv-vector-logo.jpg" group-title="Entrerterimentos",MTV TV
-http://tvonline.plus/mtv/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="Desenhos",Cartoon network Tv
-http://tvonline.plus/cartoon-network/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2010/12/aandelogo.jpg?w=446&h=299&crop=1" group-title="Entrerterimento",AeE Tv
-http://tvonline.plus/ae/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://www.harmelin.com/wp-content/uploads/2015/08/fox-logo-x_1.jpg" group-title="Filmes e series",FOX Tv
-http://tvonlinegratis1.com/fox-online-fox-ao-vivo-gratis/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/11/file_201389_0_FX_Logo-590x332.jpg" group-title="Filmes e series",FX Tv
-http://tvonlinegratis1.com/assistir-fx-online-ao-vivo/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" group-title="filmes e series",Universal Channel TV
-http://tvonlinegratis1.com/assistir-universal-channel-online-gratis/
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png" group-title="Filmes e series", TNT Tv
-http://tvonlinegratis1.com/assistir-tnt-online-gratis-24-horas/
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-0KzNXXfAlIU/VdTOd5_oMAI/AAAAAAAAlCw/Qedf2_WTvuM/s640/axn-emocao-na-claro-tv.jpg" group-title="Filmes e series",AXN Tv
-http://tvonlinegratis1.com/assistir-axn-online-ao-vivo/
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://wbtv.no.comunidades.net/wb_tv_large.jpg" group-title="Filmes e series",Warner Bros Tv
-http://tvonlinegratis1.com/assistir-warner-bros-online-gratis-24-horas/
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Entrerterimento",Investigation Discovery Tv
-http://tvonlinegratis1.com/assistir-investigation-discovery-online-gratis-hd/
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://aovivonatv.com/fotos/9b8e6de3300d6a16c2fa2d2e804569e2.jpg" group-title="Comedia",Comedy Center Tv
-http://tvonlinegratis1.com/assistir-comedy-central-online-ao-vivo/
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg" group-title="Filmes e series",MegaPix Tv
-http://tvonlinegratis1.com/assistir-megapix-online-gratis-24-horas/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Filmes e series",MaxPrime Tv
-http://tvonlinegratis1.com/assistir-max-online/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg/revision/latest?cb=20130601231108" group-title="Filmes e series",Paramount Channel Tv
-http://tvonlinegratis1.com/assistir-paramount-channel-online/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-lAM3_v-H97U/VCiRbVgsv5I/AAAAAAAAoOM/eA2zXpF6pHo/s1600/boom2014.png" group-title="Desenhos",Boomerang
-http://tvonlinegratis1.com/assistir-boomerang-online/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFdcWQIN-j8MEwQJfgnAIg4buB5XUQAGZ0Zms5kMtiHILqXZ7" group-title="Desenhos",Tooncast Tv
-http://tvonlinegratis1.com/assistir-tooncast-online-gratis-24-horas/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Nick_Jr._logo_2009_with_orange_and_blue_background.png/revision/latest?cb=20170620205120" group-title="Desenhos",Nick Jr. Tv
-http://tvonlinegratis1.com/assistir-nick-junior-online/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/64cCSIHynFA/hqdefault.jpg" group-title="Desenhos",Nickelodeon Tv
-http://tvonlinegratis1.com/assistir-nickelodeon-online-gratis-24-horas/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Mickey_Mouse_Clubhouse_Disney_Jr..jpg/revision/latest?cb=20110320233638" group-title="Desenhos", Disney JR. Tv
-http://tvonlinegratis1.com/disney-junior-online-gratis-desenho-infantil/
- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://orig00.deviantart.net/899b/f/2015/337/b/d/disney_channel_originals_logo_by_grizzlybearfan-d9ix5rq.png" group-title="Desenhos",Disney Channel Tv
-http://tvonlinegratis1.com/assistir-disney-channel-online-24h/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/mlp/images/7/76/Logo_Discovery_Kids.svg.png/revision/latest?cb=20140116151647&path-prefix=pt" group-title="Desenhos",Discovery Kids Tv
-http://tvonlinegratis1.com/assistir-discovery-kids-online-hd/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://www.imagensparawhats.com/wp-content/uploads/2017/06/N%C3%BAmero-oficial-do-Fox-Sports-DESCUBRA.jpg" group-title="Futebol",Fox Sport Tv
-http://tvonlinegratis1.com/fox-sports-online-fox-sports-ao-vivo/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/01/sportv-3-hd-na-sky.jpg" group-title="Futebol",SportTV 3
-http://tvonlinegratis1.com/sportv-3-online-ao-vivo/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://cdn-1.motorsport.com/images/amp/68ey3q40/s6/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="F1",Mundial De Motovelocidade Tv
-http://tvonlinegratis1.com/assistir-mundial-de-motovelocidade-ao-vivo-online-gratis/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkrfSCAR3006PF6pAqyrGd8f6wQ9ncDEGebEgTaynW4xqRbDC" group-title="Futebol", Premiere TV
-http://tvonlinegratis1.com/assistir-premiere-online-pfc-ao-vivo-hd/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png" group-title="NBA",N B A 
-http://tvonlinegratis1.com/assistir-nba-ao-vivo-online-gratis/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="documentario",History Channel 2
-http://tvonlinegratis1.com/assistir-history-2-online-gratis-ao-vivo/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="Documentario", History Channel 1
-http://tvonlinegratis1.com/history-channel-online-gratis/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://aovivonatv.com/fotos/13b50bf369c35e0e1542d9df9d72ab39.jpg" group-title="Documentarios",Discovery civilization Tv
-http://tvonlinegratis1.com/discovery-civilization-online-gratis-24-horas/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-logo="http://images.mi.tv/channels/br_discovery-science-brazil_m.png" group-title="Documentario",Discovery science
-http://tvonlinegratis1.com/discovery-science-online-gratis-ao-vivo/
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
- 
+AE BRASIL:http://109.200.202.124:1935/live/ae/manifest(format=m3u8-aapl).m3u8
+AGSTV:http://www.aguascalientes.gob.mx/ryta/images/agstv.asx
+ANIMAL PLANET:http://94.242.221.141/hls/a-lo/stream34.m3u8
+ARGENTINA:mms://hera.hcdn.gov.ar/sesiones_vivo
+AXN BRASIL:http://31.204.128.75:1935/live/master52/manifest(format=m3u8-aapl).m3
+u8
+BIO:http://31.204.153.70:1935/live/hd/manifest(format=m3u8-aapl).m3u8
+BOOMERANG:http://31.204.128.140:1935/live/79/manifest(format=m3u8-aapl).m3u8
+CANAL27 guate:rtmp://190.242.97.174:1935/live/livestream
+CANAL VIVA BRASIL:http://31.204.128.140:1935/live/master21/manifest(format=m3u8aapl).m3u8
+CAPITAL TV:rtmp://cdn-SOV-2.musicradio.com:80/LiveVideo/Capital
+CARTOON NETWORK:http://77.91.77.22:6607/?sid=4b54285289daac7298b23fa49406p710
+CAVERNA DO DRAGAO:http://174.36.42.92:1935/ctv/_definst_/caverna/manifest(format
+=m3u8-aapl).m3u8
+CDZ:http://174.36.42.92:1935/ctv/_definst_/cdz/manifest(format=m3u8-aapl).m3u8
+CHAVES:http://174.36.42.92:1935/ctv/_definst_/chaves/manifest(format=m3u8-aapl).
+m3u8
+CHEF Tv:rtmp://flashd.localmidia.com.br/cheftv/aovivo
+CINEMAX:http://31.204.153.70:1935/live/cinemax/manifest(format=m3u8-aapl).m3u8
+CINE Ceu:http://94.242.228.41:1935/live/cinesky/manifest(format=m3u8-aapl).m3u8
+CLUB DIRECTO TV:rtmp://87.106.183.39/live/myStream_2
+COMEDY CENTRAL:http://31.204.153.72:1935/live/comedy/manifest(format=m3u8-aapl).
+m3u8
+CHRIS:http://174.36.42.92:1935/ctv/_definst_/cris/manifest(format=m3u8-aapl).m3u
+8
+CTV:http://174.36.42.92:1935/ctv/_definst_/prison/manifest(format=m3u8-aapl).m3u
+8
+DBZ:http://174.36.42.92:1935/ctv/_definst_/dbz/manifest(format=m3u8-aapl).m3u8
+DISCOVERY:http://31.204.128.73:1935/live/master04/manifest(format=m3u8-aapl).m3u
+8
+DISCOVERY HD:http://109.200.202.124:1935/live/discohd/manifest(format=m3u8-aapl)
+.m3u8
+DISCOVERY TURBO:http://109.200.202.124:1935/live/turbo/manifest(format=m3u8-aapl
+).m3u8
+DISNEY:http://109.200.202.124:1935/live/disney/manifest(format=m3u8-aapl).m3u8
+DISNEY CHANNEL:http://77.91.77.22:6614/?sid=63f0ddb83a5b005530998345nd87709e
+DISNEY JUNIOR BRASIL:http://109.200.202.124:1935/live/animax/manifest(format=m3u
+8-aapl).m3u8
+DISNEY XD:http://109.200.202.124:1935/live/disneyxd/manifest(format=m3u8-aapl).m
+3u8
+DRAKE AND JOSH:http://174.36.42.92:1935/ctv/_definst_/drake/manifest(format=m3u8
+-aapl).m3u8
+EI:http://94.242.228.41:1935/live/ei/manifest(format=m3u8-aapl).m3u8
+3spn:http://31.204.153.71:1935/live/master06/manifest(format=m3u8-aapl).m3u8
+3spn BRASIL:http://31.204.153.71:1935/live/master05/manifest(format=m3u8-aapl).m
+3u8
+3spn +:http://31.204.128.74:1935/live/master27/manifest(format=m3u8-aapl).m3u8
+EUROSPORT 2 HD LIVE:http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_
+ENG/playlist_1300.m3u8
+EU A PATROA E AS CRIANÇAS:http://174.36.42.92:1935/ctv/_definst_/patroa/manifest(f
+ormat=m3u8-aapl).m3u8
+EXTREME SPORTS:http://94.242.221.141/hls/a-lo/stream13.m3u8
+FERROL:mms://streaming.arsenet.com/tvf
+FOR MUSIC:rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+raposa:http://174.36.42.92:1935/ctv/_definst_/simpsons/manifest(format=m3u8-aapl
+).m3u8
+raposa esporte:http://31.204.153.72:1935/live/fsb/manifest(format=m3u8-aapl).m3u
+8
+FUTURA:http://177.43.50.221:8080
 
+GLOBAL:http://174.36.42.92:1935/ctv/_definst_/glee/manifest(format=m3u8-aapl).m3
+u8
+GLOOB:http://31.204.128.140:1935/live/master35/manifest(format=m3u8-aapl).m3u8
+GNT:http://31.204.128.75:1935/live/132/manifest(format=m3u8-aapl).m3u8
+GOSSIP:http://174.36.42.92:1935/ctv/_definst_/gossip/manifest(format=m3u8-aapl).
+m3u8
+GUATEVISION TV HQ:rtsp://bravo967.sysvirtuales.com/live/stream1.sdp
+GUATEVISION TV LQ:rtmp://bravo967.sysvirtuales.com/live/stream2.sdp
+HBO2:http://109.200.202.124:1935/live/hbo2/manifest(format=m3u8-aapl).m3u8
+eightbiou HD:http://109.200.202.124:1935/live/hbohd/manifest(format=m3u8-aapl).m
+3u8
+eightbiou FAMILY BRASIL:http://109.200.202.124:1935/live/hbofamily/manifest(form
+at=m3u8-aapl).m3u8
+eightbiou PLUS:http://109.200.202.124:1935/live/hboplus/manifest(format=m3u8-aap
+l).m3u8
+HD MEDIA:http://89.208.33.168:8100
+HEART MUSIC:rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+HISTORY BRASIL:http://109.200.202.124:1935/live/history/manifest(format=m3u8-aap
+l).m3u8
+HOME:http://109.200.202.124:1935/live/home/manifest(format=m3u8-aapl).m3u8
+ICARLY:http://174.36.42.92:1935/ctv/_definst_/icarly/manifest(format=m3u8-aapl).
+m3u8
+ISAT:http://31.204.128.76:1935/live/isat/manifest(format=m3u8-aapl).m3u8
+KENAN E KEL:http://174.36.42.92:1935/ctv/_definst_/kenan/manifest(format=m3u8-aa
+pl).m3u8
+KISS TV:rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/
+live
+LIV:http://109.200.202.124:1935/live/liv/manifest(format=m3u8-aapl).m3u8
+LOBAS TV:http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
+LOST:http://174.36.42.92:1935/ctv/_definst_/lost/manifest(format=m3u8-aapl).m3u8
+MAA MUSIC:rtmp://cdn.m.yupptv.tv:1935/liveorigin/maamusic1
+MARKIN FURKIN:http://174.36.42.92:1935/ctv/_definst_/maluconopedaco/manifest(for
+mat=m3u8-aapl).m3u8
+MAX HD:http://109.200.202.124:1935/live/maxhd/manifest(format=m3u8-aapl).m3u8
+MAX BRASIL:http://31.204.128.140:1935/live/brlive_0028/manifest(format=m3u8-aapl
+).m3u8
+MEGAPIX BRASIL:http://31.204.128.75:1935/live/master11/manifest(format=m3u8-aapl
+).m3u8
+MGM:http://109.200.202.124:1935/live/mgm/manifest(format=m3u8-aapl).m3u8
+MTV:http://77.91.77.22:7015/?sid=b12ef7a2e0291d2ad65c00173964d86h
+MTV BRASIL:rtmp://ev.mm.uol.com.br/liverepeater/mtvcast_flash.sdp
+MTV DANCE:http://94.242.221.141/hls/a-lo/stream80.m3u8
+MTV LIVE HD:http://fw01.livem3u8.me.totiptv.com/live//8d45473ff4ca44d79e1abc4516
+c2fee0.m3u8?bitrate=800
+MTV MUSIC:http://94.242.221.141/hls/a-lo/stream24.m3u8
+MULTISHOW:http://31.204.128.74:1935/live/brlive_0031/manifest(format=m3u8-aapl).
+m3u8
+NAT GEO BRASIL:http://109.200.202.124:1935/live/natgeo/manifest(format=m3u8-aapl
+).m3u8
+NAT GEO WILD:http://77.91.77.21:6413/?sid=b12ef7a2e0291d2ad65c00173964d86h
+NICK:http://31.204.128.76:1935/live/brlive_0030/manifest(format=m3u8-aapl).m3u8
+NICK JR:http://109.200.202.124:1935/live/nickjr/manifest(format=m3u8-aapl).m3u8
+NICK TITE:http://174.36.42.92:1935/ctv/_definst_/kenan/manifest(format=m3u8-aapl
+).m3u8
+OS SIMPSONS:http://174.36.42.92:1935/ctv/_definst_/simpsons/manifest(format=m3u8
+-aapl).m3u8
+PICAPAU:http://174.36.42.92:1935/ctv/_definst_/picapau/manifest(format=m3u8-aapl
+).m3u8
+RECORD RONDONIA:rtmp://cast2.player.tv.br/8126/8126
+REDE BRASIL:rtmp://137690976.r.cdnstreaming.net/live-137690976/rbtv.sdp
 
+REDE CNT (SALVADOR):rtmp://flash.asaweb.com.br/cntba/cntba.sdp.flv
+REDE CNT (SP):rtmp://flash.asaweb.com.br/cntamericana/cntamericana.sdp.flv
+REDE TV:rtmp://REDETV.flash.internapcdn.net/REDETV/live_1/aovivo
+SBT:http://94.242.228.41:1935/live/sbt2/manifest(format=m3u8-aapl).m3u8
+SBT ARACATUBA:http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
+SBT CHAVES:http://174.36.42.92:1935/ctv/_definst_/chaves/manifest(format=m3u8-aa
+pl).m3u8
+SBT PIAUI:rtmp://67.228.212.5/ponto61/cidadeverde.flv
+SBT PIAUI 2:http://31.204.128.76:1935/live/master94/manifest(format=m3u8-aapl).m
+3u8
+SENAL COLOMBIA:rtmp://cdns724ste1010.multistream.net:80/rtvc2live/live-500
+SMALLVILLE:http://174.36.42.92:1935/ctv/_definst_/small/manifest(format=m3u8-aap
+l).m3u8
+SONY BRASIL:http://109.200.202.124:1935/live/sony/manifest(format=m3u8-aapl).m3u
+8
+SONY SPIN:http://109.200.202.124:1935/live/sonyspin/manifest(format=m3u8-aapl).m
+3u8
+SPACE:http://109.200.202.124:1935/live/space/manifest(format=m3u8-aapl).m3u8
+sp0rtv HD RUSSIA:http://94.242.221.141/hls/a-lo/stream175.m3u8
+Street clip TV:rtmp://stream.streetclip.tv:1935/live/high-stream
+STUDIO unicoversal:http://109.200.202.124:1935/live/studio/manifest(format=m3u8aapl).m3u8
+SUPERNATURAL:http://174.36.42.92:1935/ctv/_definst_/supernatural/manifest(format
+=m3u8-aapl).m3u8
+SUPER SONIC TV:rtmp://64.95.41.12/228/stv_online
+SYFY:http://109.200.202.124:1935/live/syfy/manifest(format=m3u8-aapl).m3u8
+TCM:http://109.200.202.124:1935/live/tcm/manifest(format=m3u8-aapl).m3u8
+TC ACTION BRASIL:http://31.204.128.73:1935/live/master17/manifest(format=m3u8-aa
+pl).m3u8
+TC CULT:http://109.200.202.124:1935/live/tccult/manifest(format=m3u8-aapl).m3u8
+TC FUN:http://109.200.202.124:1935/live/fun2/manifest(format=m3u8-aapl).m3u8
+TC PIPOCA BRASIL:http://31.204.128.74:1935/live/master18/manifest(format=m3u8-aa
+pl).m3u8
+TC PREMIUM:http://31.204.128.75:1935/live/master19/manifest(format=m3u8-aapl).m3
+u8
+TC TOUCH BRASIL:http://31.204.128.76:1935/live/brlive_0030/manifest(format=m3u8aapl).m3u8
+TC TOUCH:http://109.200.202.124:1935/live/touch/manifest(format=m3u8-aapl).m3u8
+TELESANTANDER TV:rtmp://wow.eleden.com:1935/livesantander/livestream
+TELEVICENTRO:mms://Televicentro1.serverroom.us/televicentro
+THE BIG BANG TEORY:http://174.36.42.92:1935/ctv/_definst_/big/manifest(format=m3
+u8-aapl).m3u8
+TLC:http://31.204.128.76:1935/live/tlc/manifest(format=m3u8-aapl).m3u8
+TNT BR:http://31.204.128.74:1935/live/master77/manifest(format=m3u8-aapl).m3u8
+TOUR TV:rtmp://www.planeta-online.tv:1936/live/channel_2
+TOONCAST:http://109.200.202.124:1935/live/tooncast/manifest(format=m3u8-aapl).m3
+u8
+TRU TV:http://31.204.128.75:1935/live/112/manifest(format=m3u8-aapl).m3u8
+TV ALFENAS MG:mms://tv-coder.unifenas.br/aovivo
+TV APARECIDA:rtmp://67.228.212.5/ponto45_new/aparecida.flv
+TV CAMARA:rtsp://stream.camara.gov.br/tvcamara1t200
+TV CIDADE DE JOINVILE:mms://65.182.104.113/tvcidade
+TV DIARIO:http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f
+34b35fc02b51ee33d935/liveevent/livestream.m3u8
+TV GUARULHOS:rtmp://174.37.200.35/476_1/476_1.flv
+TV PREVE:rtmp://flashserverbr.com/tvpreve/livestream
+TV RIP Br:http://174.36.42.92:1935/ctv/_definst_/picapau/manifest(format=m3u8-aa
+pl).m3u8
+TWO AND HALF MAN:http://174.36.42.92:1935/ctv/_definst_/two/manifest(format=m3u8
+-aapl).m3u8
 
+UM MALUCO NO PEDAÇO:http://174.36.42.92:1935/ctv/_definst_/maluconopedaco/manifest
+(format=m3u8-aapl).m3u8
+unicoversal:http://31.204.128.73:1935/live/master20/manifest(format=m3u8-aapl).m
+3u8
+VH 1 CLASSIC:http://94.242.221.141/hls/a-lo/stream79.m3u8
+VIVA:http://31.204.128.140:1935/live/master21/manifest(format=m3u8-aapl).m3u8
+uorner:http://31.204.128.76:1935/live/master22/manifest(format=m3u8-aapl).m3u8
+WILLAX:rtmp://willax.mediastream.pe/vv_willax/livestream
+xx1:rtmp://live190.la3.origin.filmon.com:1935/live/198.high.stream
+xx2:rtmp://live190.la3.origin.filmon.com:1935/live/244.high.stream
+xx3:rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream
+xx4:rtmp://live190.la3.origin.filmon.com:1935/live/245.high.stream
+xx5:rtmp://live190.la3.origin.filmon.com:1935/live/247.high.stream
+Tranny:rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream
+Adult Gay:rtmp://live190.la3.origin.filmon.com:1935/live/73.high.stream
+Adult Asia:rtmp://live190.la3.origin.filmon.com:1935/live/198.high.stream
+Adult Black:rtmp://live190.la3.origin.filmon.com:1935/live/244.high.stream
+Adult Black2:rtmp://live190.la3.origin.filmon.com:1935/live/245.high.stream
+Adult MILF:rtmp://live190.la3.origin.filmon.com:1935/live/247.high.stream
+RADIO 104 FM BRASILIA:http://online.fm104brasilia.com.br:80
+RADIO BALADA E VIOLA:http://174.142.210.40:8775
+RADIO BAND FM CAMPINAS:http://67.228.135.41:8048
+RADIO BEAT98:mms://wm-sgr-live.gl0b0.com/sgr_off_98fmrj_live.wma
+RADIO BEM MAIS FM:http://69.162.65.226:8103/stream
+RADIO BLUEY:http://174.142.192.136:9958
+RADIO CALIPSO FM:http://srv50.zoeweb.net:8008
+RADIO CAPITAL FM CASCAVEL:http://108.163.162.226:9080
+RADIO CBN CASCAVEL:http://108.163.162.226:9082
+RADIO COSTA VERDE:http://www.radiocostaverdefm.com.br/online/playlist.asx
+RADIO FM TERRA:http://www.fmterra.com.br/static/stream/aovivo.asx
+RADIO FUSION:http://173.192.228.34:9022
+RADIO gl0b0 CASCAVEL:http://64.56.64.50:9966
+RADIO gl0b0 RJ FM:mms://wm-sgr-live.gl0b0.com/sgr_off_globofmrj_live.wma
+RADIO HUNTER:http://www.radiohunter.com.br/master/tocadores/mediaplayer/fullhdfo
+nt.asx
+RADIO INTERATIVA FM:http://www.interativafm.net/interativa.asx
+RADIO JOVEM PAN FM:http://66.185.27.98:8018
+RADIO MARANGUAPE FM:http://184.107.199.178:7000
+RADIO MASSA FM:http://curitiba.massafm.com.br:8004/
+RADIO MB RADIO POP:http://216.59.16.145:12002
+RADIO METROPOLE FM:http://streaming.advancehost.com.br/player/10478/mediaplayer.
+asx
+RADIO MIX FM RJ:mms://p.mm.uol.com.br/mixriofm
+RADIO MIX FM SP:http://173.193.156.98:8000/
+RADIO NOVA FM:http://184.107.133.66:8686
+RADIO NOVA SERTANEJA:http://hdpanel.oficialserver.com:8012/listen.asx
+RADIO ORBITAL:mms://stream.radio.com.pt/ROLI-ENC-401
+RADIO PLUG FM:http://sh128.plugfm.com:10000
+RADIO PORTAL SERTANEJO:http://174.142.75.174:8006
+RADIO RURAL FM:http://ruralfm.dnip.com.br:1380/ruralfm
+RADIO SERTANEJA:http://64.15.147.221:12016/
+RADIO SERTANEJO UNIVERSITARIO:mms://stream01.radiosertanejo.net/radiosu
+RADIO SO SERTANEJANET:http://216.59.16.57:8450
+RADIO SOM SERTANEJO:http://64.15.147.221:12016/
+RADIO SU:http://72.55.174.236:8080/radiosu.mp3
+RADIO SUPER SERTANEJA:http://9.fm5.com.br:8050
+RADIO TOK:http://173.193.202.68:9748
+RADIO TOP SERTANEJO:http://topsertanejo.movimentosertanejo.com.br/player--136596
+1265--.asx
+RADIO TOP SHOW FM LONDRINA:http://66.96.248.197:8537
 
+RADIO TOTAL SERTANEJA:http://64.56.64.28:12492
+RADIO Transamerica Pop FM Curitiba: mms://wmedia.telium.com.br/transprpop
+RADIO TRANSCONTINENTAL FM:http://www.transcontinentalfm.com.br/popups/player.asx
+RADIO UNIAO FM:mms://portalradios20.dnip.com.br/uniaofm
+RADIO ZONA DEZ:http://wms5.fabricahost.com.br:8009/
+sapinhoijs
+<<<--------- By Cientista_Dj--------->>>
+
+
